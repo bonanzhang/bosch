@@ -1,4 +1,7 @@
-This is for a kaggle competition: https://www.kaggle.com/c/bosch-production-line-performance
+You can launch the Jupyter notebook by doing:
+```bash
+jupyter notebook src/bosch.ipynb
+```
 
 Using the Intel Python distribution for a possible performance (training speed) boost:
 ```bash
